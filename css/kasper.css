@@ -996,6 +996,7 @@ header nav .form:hover i{
       order: -1;
       text-align: center;
       display: flex;
+      flex-direction: column;
     }
   }
   .contact .content .info h4{
